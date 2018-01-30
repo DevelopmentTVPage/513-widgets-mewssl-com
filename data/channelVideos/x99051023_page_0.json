@@ -1,0 +1,101 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "134093097",
+            "title": "White Chocolate Fruit Bark - Good Food Fast",
+            "date_created": "1513701633",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Recipe for White Chocolate Fruit Bark.\nShop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758927\/canvas\/480\/269\/276616521-046480315.jpg",
+                "uploadDate": 1513701633,
+                "videoId": "_MPgIlK7FXs",
+                "title": "White Chocolate Fruit Bark by Good Food Fast",
+                "description": "Check more recipes like this at https:www.hsn.comshophsn-recipe-box13363",
+                "author": "HSNtv",
+                "mediaDuration": 39,
+                "prettyDuration": "00:00:39",
+                "views": "6",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "99051023",
+            "url": "\/featured\/white-chocolate-fruit-bark-by-good-food-fast\/99051023-134093097"
+        },
+        {
+            "id": "134093068",
+            "title": "Spiralized Vegetable Soup- Good Food Fast",
+            "date_created": "1513720368",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Recipe for Spiralized Vegetable Soup.\nShop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/91HTRrRb8Zc\/maxresdefault.jpg",
+                "uploadDate": 1513720368,
+                "videoId": "91HTRrRb8Zc",
+                "title": "Spiralized Vegetable Soup by Good Food Fast",
+                "description": "Check more recipes like this at https:www.hsn.comshophsn-recipe-box13363",
+                "author": "HSNtv",
+                "mediaDuration": 51,
+                "prettyDuration": "00:00:51",
+                "views": "6",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "99051023",
+            "url": "\/featured\/spiralized-vegetable-soup-by-good-food-fast\/99051023-134093068"
+        },
+        {
+            "id": "134093067",
+            "title": "Spicy Sriracha Wings in the Airfryer - Good Food Fast",
+            "date_created": "1513720396",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Recipe for Spicy Sriracha Wings. \nShop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758927\/canvas\/1280\/717\/347492310-021280719.jpg",
+                "uploadDate": 1513720396,
+                "videoId": "iHPU6znTldI",
+                "title": "Spicy Sriracha Wings in the Airfryer by Good Food Fast",
+                "description": "Check out more recipes like this at https:www.hsn.comshophsn-recipe-box13363",
+                "author": "HSNtv",
+                "mediaDuration": 55,
+                "prettyDuration": "00:00:55",
+                "views": "9",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "99051023",
+            "url": "\/featured\/spicy-sriracha-wings-in-the-airfryer-by-good-food-fast\/99051023-134093067"
+        },
+        {
+            "id": "134093098",
+            "title": "Green Detox Smoothie - Good Food Fast",
+            "date_created": "1513700843",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Recipe for green detox smoothie. \nShop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-lbHL3f4UJo\/maxresdefault.jpg",
+                "uploadDate": 1513700843,
+                "videoId": "-lbHL3f4UJo",
+                "title": "Greeen Detox Smoothie by Good Food Fast",
+                "description": "Check more recipes like this at https:www.hsn.comshophsn-recipe-box13363",
+                "author": "HSNtv",
+                "mediaDuration": 37,
+                "prettyDuration": "00:00:37",
+                "views": "10",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "99051023",
+            "url": "\/featured\/greeen-detox-smoothie-by-good-food-fast\/99051023-134093098"
+        }
+    ]
+}
