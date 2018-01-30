@@ -1,0 +1,15 @@
+{
+    "title": "New SSL Test",
+    "baseURL": "https:\/\/widgets.mewssl.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758927",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "mewssl.com"
+    }
+}
